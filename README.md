@@ -1,7 +1,7 @@
 # Question Bank Re-Exam-Part-66 / CAAT147 (B1)
 **The same principle as the standard system of teaching and assessment of the Vocational Education Commission.**
 
-**Module** : 2 Physics
+**Module 2** : 2 Physics **(340 Question)**
 
 **Module 3** : 3.1 - 3.10 Electrical Fundamentals **(440 Question)**
 
