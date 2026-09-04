@@ -5,4 +5,4 @@
 
 **Module 3** : 3.11 - 3.18 Electrical Fundamentals (AC & Machines) (235 Question)
 
-**Module 5** : 5.1 Electronic Instrument Systems & Module 5.15 Typical Electronic/Digital Aircraft Systems (380 Question)
+**Module 5** : 5.1 Electronic Instrument Systems & 5.15 Typical Electronic/Digital Aircraft Systems (380 Question)
