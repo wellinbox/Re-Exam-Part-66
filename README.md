@@ -1,5 +1,5 @@
 # Re-Exam-Part-66 / CAAT147 (B1)
-**BLOD** The same principle as the standard system of teaching and assessment of the Vocational Education Commission.
+**The same principle as the standard system of teaching and assessment of the Vocational Education Commission.**
 
 Module 3.1 - 3.11 Electrical Fundamentals (440 Unit)
 
